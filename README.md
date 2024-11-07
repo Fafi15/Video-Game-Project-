@@ -1,6 +1,6 @@
 # Video-Game-Project-
 
-This project focuses on exploring a dataset to uncover insights and develop predictive models. By following a structured approach—data exploration, visualization, feature engineering, and model evaluation—we aim to identify meaningful patterns and build effective machine learning models. Developed in collaboration with Guillaume as part of the DataScientest training program, this project provided an opportunity to apply a range of data science concepts and techniques in a hands-on, practical setting with real-world data
+This project focuses on exploring a dataset to uncover insights and develop predictive models. By following a structured approach data exploration, visualization, feature engineering, and model evaluation—we aim to identify meaningful patterns and build effective machine learning models. Developed in collaboration with Guillaume as part of the DataScientest training program, this project provided an opportunity to apply a range of data science concepts and techniques in a hands-on, practical setting with real-world data
 
 ## Notebooks Included
 
